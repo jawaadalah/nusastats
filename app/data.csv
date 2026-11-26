@@ -1,0 +1,39 @@
+indikator,tahun,nilai,satuan,sumber
+penduduk,2025,284.67,juta jiwa,BPS SUPAS 2025
+penduduk,2020,270.2,juta jiwa,BPS Sensus Penduduk 2020
+penduduk,2010,237.6,juta jiwa,BPS Sensus Penduduk 2010
+pertumbuhan_pdb,2021,3.70,persen,BPS Pendapatan Nasional 2021-2025
+pertumbuhan_pdb,2022,5.31,persen,BPS Pendapatan Nasional 2021-2025
+pertumbuhan_pdb,2023,5.05,persen,BPS Pendapatan Nasional 2021-2025
+pertumbuhan_pdb,2024,5.03,persen,BPS Pendapatan Nasional 2021-2025
+pertumbuhan_pdb,2025,5.11,persen,BPS Pendapatan Nasional 2021-2025
+pdb_nominal,2021,16977,Rp triliun,BPS Pendapatan Nasional 2021-2025
+pdb_nominal,2022,19588,Rp triliun,BPS Pendapatan Nasional 2021-2025
+pdb_nominal,2023,20983,Rp triliun,BPS Pendapatan Nasional 2021-2025
+pdb_nominal,2024,22074,Rp triliun,BPS Pendapatan Nasional 2021-2025
+pdb_nominal,2025,23821,Rp triliun,BPS Pendapatan Nasional 2021-2025
+pdb_per_kapita,2025,83.7,Rp juta,BPS Pendapatan Nasional 2021-2025
+inflasi,2021,1.87,persen,BPS IHK Desember
+inflasi,2022,5.51,persen,BPS IHK Desember
+inflasi,2023,2.61,persen,BPS IHK Desember
+inflasi,2024,1.57,persen,BPS IHK Desember
+inflasi,2025,1.90,persen,World Bank WDI 2025
+tpt,2020,7.07,persen,BPS Sakernas Agustus
+tpt,2021,6.49,persen,BPS Sakernas Agustus
+tpt,2022,5.86,persen,BPS Sakernas Agustus
+tpt,2023,5.32,persen,BPS Sakernas Agustus
+tpt,2024,4.91,persen,BPS Sakernas Agustus
+tpt,2025,4.74,persen,BPS Sakernas Agustus
+kemiskinan,2021,10.14,persen,BPS Profil Kemiskinan Maret
+kemiskinan,2022,9.54,persen,BPS Profil Kemiskinan Maret
+kemiskinan,2023,9.36,persen,BPS Profil Kemiskinan Maret
+kemiskinan,2024,9.03,persen,BPS Profil Kemiskinan Maret
+kemiskinan,2025,8.47,persen,BPS Profil Kemiskinan Maret
+penduduk_miskin,2025,23.85,juta jiwa,BPS Profil Kemiskinan Maret 2025
+garis_kemiskinan,2025,609160,Rp per kapita per bulan,BPS Profil Kemiskinan Maret 2025
+gini,2025,0.375,indeks,BPS Maret 2025
+harapan_hidup,2024,71.3,tahun,World Bank WDI 2024
+fertilitas,2024,2.12,anak per perempuan,World Bank WDI 2024
+usia_0_14,2025,24.3,persen penduduk,World Bank WDI 2025
+usia_15_64,2025,68.2,persen penduduk,World Bank WDI 2025
+usia_65_plus,2025,7.5,persen penduduk,World Bank WDI 2025
